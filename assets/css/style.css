@@ -20,7 +20,7 @@ h2 {
 }
 
 .app-main {
-    width: 1770px;
+    width: 1880px;
     margin: auto;
 }
 
@@ -44,7 +44,7 @@ h2 {
 
 img {
     float: left;
-    height: 150px;
+    height: 130px;
 }
 
 h3,
@@ -52,6 +52,12 @@ div > p {
     color: white;
     font-size: 25px;
     line-height: 3rem;
+    
+}
+a,
+div > p{
+    font-size: 15px;
+    padding-left: 10px;
 }
 
 
